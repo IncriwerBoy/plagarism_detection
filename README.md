@@ -1,7 +1,7 @@
 # # Plagiarism Detection
 
 ## Overview
-This project is designed to detect plagiarism in text documents by comparing and analyzing the similarity between different pieces of text using machine learning techniques, specifically Random Forest.
+This project is designed to detect plagiarism in text documents by comparing and analyzing the similarity between different pieces of text using machine learning techniques, specifically Random Forest.The project is deployed using Streamlit and can be accessed via the following link: [Project Dashboard](https://plagarismdetection.streamlit.app/).
 
 ## Features
 - Text similarity measures
